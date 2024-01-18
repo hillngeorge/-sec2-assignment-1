@@ -1,0 +1,25 @@
+/*global*/
+
+
+body{
+    font-family: arial;
+}
+a{
+    color:white;
+    margin-right: 20px;
+    text-decoration: none;
+}
+/*main*/
+main{
+    width:60%;
+    margin-right:20px;
+}
+/*headers*/
+.site-init{
+    background-image: url(./img/header.jpg);
+    background-size: cover;
+    height:400px;
+    text-align:center;
+    color:white;
+    font-weight: bold;
+}
